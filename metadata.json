@@ -1,0 +1,6 @@
+{
+  "name": "Cinema Fans",
+  "description": "Cinema Fans — Beyond the Screen. Inside the Cinema. Complete cinema knowledge platform covering Telugu and Indian cinema, cinema history, film reels, digital projection, DCP, cinema servers, and Dolby Atmos sound systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
